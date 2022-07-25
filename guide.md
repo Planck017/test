@@ -25,10 +25,28 @@
 
 #git log
 
-##查看版本信息
+##查看版本详细信息
 
 #git reflog
 
 ##查看版本信息
 
+#git reset --hard 版本号（reflog的版本号）
 
+##回滚版本
+
+#git branch 分支名
+
+##创建分支
+
+#git branch -v 
+
+##查看分支
+
+#git checkout 分支名
+
+##切换所处分支
+
+#git merge 
+
+##
